@@ -1,0 +1,15 @@
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\bin\Debug\net8.0\Domain.dll
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\bin\Debug\net8.0\Infrastructure.dll
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\bin\Debug\net8.0\Infrastructure.pdb
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\Domain.dll
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,17 @@
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\bin\Debug\net8.0\Application.deps.json
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\bin\Debug\net8.0\Application.dll
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\bin\Debug\net8.0\Application.pdb
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\bin\Debug\net8.0\Domain.dll
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\bin\Debug\net8.0\Infrastructure.dll
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\bin\Debug\net8.0\Domain.pdb
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\bin\Debug\net8.0\Infrastructure.pdb
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\Application.dll
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\Application.pdb
+D:\Aplicaciones Web\Backend\ si730pc2u20191a137\Application\obj\Debug\net8.0\ref\Application.dll
